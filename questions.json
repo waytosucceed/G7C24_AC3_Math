@@ -1,0 +1,230 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Aria is designing a triangular support beam for the new mall entrance. She needs to find out which rule explains why below given triangles are congruent?",
+        "options": [
+            "SAS",
+            "SSS",
+            "ASA",
+            "None of the above"
+        ],
+        "correct": 2,
+      "img": "./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Ben is constructing a new skylight and needs to find out ‘Are the given triangles ∆XVW and ∆UTS congruent to each other by ASA property?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 0,
+      "img": "./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Carlos is tasked with creating a decorative triangular panel for the atrium. He needs to find which rule explains why below given triangles are congruent?",
+        "options": [
+            "SSS",
+            "ASA",
+            "SAS",
+            "None of the above"
+        ],
+        "correct": 0,
+      "img": "./assests/images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "For the new ramp in the mall, Aria needs to find which rule explains why these below given triangles are congruent?",
+        "options": [
+            "SSS",
+            "ASA",
+            "SAS",
+            "None of the above"
+        ],
+        "correct": 2,
+      "img": "./assests/images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Ben is designing a triangular skylight and needs to find ‘Are the below given triangles congruent by ASA rule?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 1,
+      "img": "./assests/images/5.png"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Carlos is tasked with determining the unknown value of x in the given figure to ensure the stability of a triangular support.",
+        "options": [
+            "35°",
+            "40°",
+            "25°",
+            "30°"
+        ],
+        "correct": 2,
+      "img": "./assests/images/6.jpg"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Aria proposes a triangular decorative element and needs to find the value of a in the given figure to finalize the design.",
+        "options": [
+            "36°",
+            "144°",
+            "26°",
+            "87°"
+        ],
+        "correct": 0,
+      "img": "./assests/images/7.jpg"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "In ∆ABC, Ben needs to find the value of the unknown angle x to ensure the correct fit for a triangular skylight.",
+        "options": [
+            "58.5°",
+            "59.5°",
+            "59°",
+            "58°"
+        ],
+        "correct": 1,
+      "img": "./assests/images/8.jpg"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Aria is designing a triangular skylight for the mall. She proposes a triangle with sides measuring 5 metres, 7 metres, and 12 metres. Use the triangle inequality property to determine if this triangle is possible.",
+        "options": [
+            "Yes, it is a valid triangle.",
+            "No, it is not a valid triangle."
+        ],
+        "correct": 1,
+      "img": "./assests/images/9.jpg"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "For the roof structure, Aria suggests a triangle with sides 8 metres, 15 metres, and 20 metres. Use the triangle inequality property to determine if this triangle can be constructed.",
+        "options": [
+            "Yes, it is a valid triangle.",
+            "No, it is not a valid triangle."
+        ],
+        "correct": 0,
+      "img": "./assests/images/10.jpg"
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Ben proposes a triangular layout for the new garden feature with sides 7 metres, 10 metres, and 18 metres. Check if this triangle is possible using the triangle inequality property.",
+        "options": [
+            "Yes, it is a valid triangle.",
+            "No, it is not a valid triangle."
+        ],
+        "correct": 1,
+      "img": "./assests/images/11.jpg"
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Carlos is designing a triangular fountain. He considers a triangle with sides 4 metres, 9 metres, and 14 metres. Verify if this triangle is possible using the triangle inequality property.",
+        "options": [
+            "Yes, it is a valid triangle.",
+            "No, it is not a valid triangle."
+        ],
+        "correct": 1,
+      "img": "./assests/images/12.jpg"
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Aria is designing a triangular support beam for a new display area. She needs to find the value of m in the given figure to ensure the beam is properly aligned.",
+        "options": [
+            "68°",
+            "112°",
+            "96°",
+            "56°"
+        ],
+        "correct": 3,
+      "img": "./assests/images/13.jpg"
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Ben is designing a triangular decorative piece for a new section of the mall. He needs to find the values of x and y in the given figure to ensure the piece fits perfectly.",
+        "options": [
+            "x = 59° and y = 59°",
+            "x = 80° and y = 59°",
+            "x = 80° and y = 69°",
+            "x = 69° and y = 69°"
+        ],
+        "correct": 1,
+      "img": "./assests/images/14.jpg"
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Carlos needs to determine the values of the unknowns x and y in the following diagram for a triangular support beam in the mall's atrium.",
+        "options": [
+            "60°",
+            "30°",
+            "90°",
+            "50°"
+        ],
+        "correct": 2,
+      "img": "./assests/images/15.jpg"
+    },
+    {
+        "questionNo": "Q16",
+        "question": "Aria needs to find the value of x in the given figure for a new triangular display board to ensure the angles are correctly aligned for the display.",
+        "options": [
+            "36°",
+            "66°",
+            "56°",
+            "46°"
+        ],
+        "correct": 3,
+      "img": "./assests/images/16.jpg"
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Ben is designing a triangular decorative piece for the entrance and needs to find the values of x and y in the following diagram to match the design specifications.",
+        "options": [
+            "x = 90° and y = 80°",
+            "x = 100° and y = 80°",
+            "x = 100° and y = 70°",
+            "x = 110° and y = 70°"
+        ],
+        "correct": 1,
+      "img": "./assests/images/17.jpg"
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Carlos needs to find the value of x in the given figure for a new triangular decorative panel to ensure it fits correctly in the designated space.",
+        "options": [
+            "24°",
+            "54°",
+            "26°",
+            "56°"
+        ],
+        "correct": 2,
+      "img": "./assests/images/18.jpg"
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Aria is designing a new triangular signpost to guide visitors to different sections of the mall. She needs to find the value of x in the given triangle to ensure the signpost is correctly oriented.",
+        "options": [
+            "30°",
+            "90°",
+            "40°",
+            "20°"
+        ],
+        "correct": 3,
+      "img": "./assests/images/19.jpg"
+    },
+    {
+        "questionNo": "Q20",
+        "question": "In ∆PQR, Ben needs to find the value of x to ensure the correct alignment of a triangular decorative piece in the new garden section.",
+        "options": [
+            "82°",
+            "80°",
+            "28°",
+            "68°"
+        ],
+        "correct": 2,
+      "img": "./assests/images/20.jpg"
+    }
+]
